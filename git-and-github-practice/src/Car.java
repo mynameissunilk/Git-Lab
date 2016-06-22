@@ -3,5 +3,9 @@
  */
 public class Car {
 
+    int carMaxSpeed = 1_000;
+    String carName = "Dodge Viper";
+    int carRimSize = 22;
+
 
 }
